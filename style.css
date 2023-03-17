@@ -44,13 +44,13 @@ main{
 }
 /* display flex */
 .text_main{
-    width: 700px;
+    width: 800px;
     display: flex;
     flex-direction: column;
     font-size: 20px;
     color: white;
     font-family: 'Roboto', sans-serif;
-    margin-top: 90px;
+    margin-top: 120px;
 }
 .logo{
     width:30vw;
@@ -85,12 +85,12 @@ footer{
 }
 .trailer1{
     margin-inline-end: 40px;
-    height: 140px;
+    height: 160px;
 }
 .trailer2{
     margin-inline-end: 40px;
-    height: 140px;
+    height: 160px;
 }
 .special{
-    height: 140px;
+    height: 160px;
 }
